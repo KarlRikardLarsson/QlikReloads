@@ -1,3 +1,10 @@
+## Innehållsförteckning
+1. [Info](#info)
+2. [Installation](#installation)
+3. [Slutförd](#slutförd)
+
+---
+
 # Laddningskedja installer
 En automation som installerar en laddningskedja med mejlutskick när en automation har misslyckats (failat), samt ett "recovered"-mejl om laddningen misslyckas men sedan lyckas vid nästa försök.
 
@@ -9,10 +16,6 @@ En automation som installerar en laddningskedja med mejlutskick när en automati
 
 ![image](https://github.com/user-attachments/assets/1ab9b796-727f-4783-955a-89a50cf08008)
 
-## Innehållsförteckning
-1. [Info](#info)
-2. [Installation](#installation)
-3. [Slutförd](#slutförd)
 
 ---
 
